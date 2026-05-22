@@ -1,0 +1,4 @@
+finding,evidence,paper_implication
+Internal Elliptic best model,Extra Trees achieved AUPRC=0.570.,Use Elliptic as transaction-level internal benchmark.
+External Elliptic2 best model,Elliptic2_RandomForest achieved AUPRC=0.494.,Use Elliptic2 as subgraph-level external validation with background-node feature aggregation; do not claim direct feature-space transfer.
+Cross-benchmark conclusion,Elliptic and Elliptic2 use different prediction units: transaction nodes vs labeled subgraphs.,"Frame the paper as cross-benchmark evidence about evaluation design and laundering-shape modeling, not as one model transferred unchanged across datasets."

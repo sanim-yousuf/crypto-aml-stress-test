@@ -1,0 +1,5 @@
+diagnostic,value,interpretation
+best_non_graph_minus_best_graph_auprc,0.2590677439739681,Positive values indicate that current GNNs did not dominate stronger non-graph or feature-augmented models.
+test_illicit_rate,0.04614862572107228,Low base rate makes accuracy less informative and increases the importance of AUPRC and Recall@K.
+edge_direction_symmetrized_for_gnn,1.0,GCN/GraphSAGE used symmetrized edges; AML money-flow direction may require directed models.
+unknown_nodes_retained_in_graph,0.7714863399241297,Unknown nodes support message passing but can also introduce noisy neighborhoods.

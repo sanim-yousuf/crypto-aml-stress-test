@@ -1,0 +1,7 @@
+artifact,type,paper_use
+fig_13_research_design_pipeline.png,figure,Introduction / Methodology overview
+fig_14_cross_benchmark_summary.png,figure,Results summary
+table_30_publication_dataset_design_summary.csv,table,Data section
+table_31_publication_claims_and_evidence.csv,table,Discussion / contribution summary
+table_32_threats_to_validity_and_mitigation.csv,table,Limitations
+table_33_manuscript_section_blueprint.csv,table,Author planning / supplement

@@ -1,0 +1,9 @@
+feature_set,n_features
+tabular_original,165
+graph_handcrafted,24
+tabular_plus_graph,189
+spectral_graph_embedding,32
+tabular_plus_graph_plus_spectral,221
+node2vec_embedding,32
+tabular_plus_graph_plus_node2vec,221
+all_features,253

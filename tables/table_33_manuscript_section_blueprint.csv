@@ -1,0 +1,9 @@
+section,writing_goal,key_artifacts
+Abstract,"State AML graph-AI promise, validation gap, two-benchmark design, and main finding that tree ensembles outperform common GNNs.","table_26, table_31"
+Introduction,Motivate deployment-realistic AML evaluation and define RQ1-RQ4.,"fig_13, table_31"
+Literature Review,"Position the paper across crypto AML, graph learning, RegTech, and evaluation leakage.",narrative only
+Data,"Describe Elliptic and Elliptic2 units, labels, splits, and leakage controls.","table_1, table_5, table_22, table_23, table_30"
+Methodology,"Explain model families, feature sets, graph construction, confidence intervals, paired tests, repeated splits, and metrics.","table_5f, table_16b, table_28, table_29"
+Results,"Report main temporal benchmark, GNN underperformance, operating points, and full Elliptic2 validation.","table_6, table_13, table_20, table_24, fig_4, fig_6, fig_12, fig_14"
+Discussion,Explain why graph structure does not guarantee GNN dominance and what compliance teams should do.,"table_21, table_31, table_32"
+Conclusion,Restate the cross-benchmark finding and deployment implication for RegTech model governance.,table_31

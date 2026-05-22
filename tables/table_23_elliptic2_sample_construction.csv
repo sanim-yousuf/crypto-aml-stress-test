@@ -1,0 +1,9 @@
+item,value
+mode,nodes_membership_plus_connected_components_labels+background_node_features
+subgraphs,121810
+features,140
+positive_rate,0.02268286675970774
+selected_nodes,444521
+background_rows_kept,444521
+background_feature_columns_used,32
+edge_rows_loaded,367137

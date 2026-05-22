@@ -1,0 +1,3 @@
+component,unit_of_prediction,n_observations,n_positive,positive_rate,split_design,primary_metrics
+Elliptic transaction-level benchmark,Transaction node,46564,4545,0.09760759384932566,Temporal train/validation/test split,"AUPRC, AUROC, Recall@K, Precision@K, calibration, operating points"
+Elliptic2 subgraph-level benchmark,Connected component / subgraph,121810,2763,0.02268286675970774,Full subgraph benchmark with repeated stratified 70/15/15 splits,"AUPRC, AUROC, Recall@K, Precision@K, repeated-split stability"
