@@ -2,6 +2,9 @@ Deployment-oriented benchmark study of graph AI for cryptocurrency anti-money-la
 
 This repository contains the research notebook, manuscript files, generated figures, result tables, and reproducibility artifacts for evaluating whether graph-based learning models outperform strong non-GNN baselines under realistic AML validation settings.
 
+<img width="2730" height="1536" alt="system_arch" src="https://github.com/user-attachments/assets/7ad59a26-890b-46e2-a3ab-785ff75214a7" />
+
+
 ## Project Overview
 
 Cryptocurrency AML is often treated as a graph-learning problem because suspicious activity unfolds through transaction networks. This project tests that assumption using two public benchmarks:
